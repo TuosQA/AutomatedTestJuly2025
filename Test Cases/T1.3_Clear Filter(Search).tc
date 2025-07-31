@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T1.3_Clear Filter(Search)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce128a74-8711-4b44-b7c2-604f4ca4b042</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T1.8 Export Inv to Pdf</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11495fbf-c2e2-4474-b912-b2908a414360</testCaseGuid>
+</TestCaseEntity>

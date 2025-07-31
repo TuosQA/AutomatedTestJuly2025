@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Steve_w-full text-start px-3</name>
+   <tag></tag>
+   <elementGuidId>5a71c230-6942-4fa6-9df4-311709314714</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='grid_1623205621_0_content_table']/tbody/tr[2]/td[5]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Post column header Status INV-00000005 column header Number Steve column header Customer 70.73 is template cell column header Balance SendOpen options is template cell column header Actions&quot;i] >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c4fa23f4-78da-4057-8be4-a34c3a67084e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full text-start px-3</value>
+      <webElementGuid>bb55eeb3-736e-47af-a24d-3a6d183c3f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send</value>
+      <webElementGuid>1ea479ae-595f-410a-b7b4-a0f1ec638a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid_1623205621_0_content_table&quot;)/tbody[1]/tr[@class=&quot;e-row e-altrow&quot;]/td[@class=&quot;e-rowcell e-templatecell&quot;]/div[@class=&quot;flex flex-row action&quot;]/div[@class=&quot;hover:bg-primary-500 rounded-md cursor-pointer&quot;]/span[@class=&quot;w-full text-start px-3&quot;]</value>
+      <webElementGuid>aadb7042-53f4-487d-b744-76aa5d76c23c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='grid_1623205621_0_content_table']/tbody/tr[2]/td[5]/div/div/span</value>
+      <webElementGuid>83422efb-d530-4116-acb2-5df2f63b8221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Steve'])[2]/following::span[2]</value>
+      <webElementGuid>5a5e2b2b-ae33-4149-8d3a-3c635f63b445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INV-00000005'])[1]/following::span[2]</value>
+      <webElementGuid>427c822b-1b73-45bd-979b-6926b1eb5b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open options'])[2]/preceding::span[1]</value>
+      <webElementGuid>48de0d0a-af18-446e-9a1a-e7ae7de0e34c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posted'])[2]/preceding::span[2]</value>
+      <webElementGuid>6e16b5eb-aae5-4673-83fb-d598dbb08b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]/div/div/span</value>
+      <webElementGuid>4b9448ed-c5d2-4aeb-8504-28f6b42c0ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Send' or . = 'Send')]</value>
+      <webElementGuid>309d4beb-88d3-45af-9c6b-11b6bd984de2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

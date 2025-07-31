@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T3_Create RecInv</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e20fa84-ce3f-4f16-93ef-9abd051f6c2c</testCaseGuid>
+</TestCaseEntity>

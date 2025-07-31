@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Send Invoice_lgw-6 lgh-6 mdw-6 mdh-6 w-5 h-5</name>
+   <tag></tag>
+   <elementGuidId>f3d0e637-a2fb-47d5-a7c8-b4d031a7813e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Invoice'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;headlessui-dialog-panel-«r75»&quot;] >> internal:role=button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>54b171ec-f7d7-4f6e-ab01-c1bcf737fb53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>2a051586-9852-4c72-96f6-1f44fbf0408d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>7537b7f2-98b7-42c0-a5ca-9d92d303942d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>83ed00bb-e454-4fb0-af42-07a017620d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>1.5</value>
+      <webElementGuid>7bdd675b-0449-4ac6-93d6-f38bae7a5028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>cd6fbd10-c48a-4cf7-b578-db542e4028e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:w-6 lg:h-6 md:w-6 md:h-6 w-5 h-5</value>
+      <webElementGuid>3f8e2d59-de44-4059-b88f-a65fb012b868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-«r75»&quot;)/div[@class=&quot;flex pl-4 justify-between items-center&quot;]/div[2]/div[@class=&quot;flex justify-end&quot;]/button[@class=&quot;hover:text-red-500 p-2&quot;]/svg[@class=&quot;lg:w-6 lg:h-6 md:w-6 md:h-6 w-5 h-5&quot;]</value>
+      <webElementGuid>8b18de93-79d4-4e1c-bc0f-4cd04567b615</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Invoice'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a89e2e43-04c1-473a-9f9a-bca4faaa6c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(6 items)'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>28836f8f-ae3d-48fd-ae80-069a425dcdc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy Link'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>3c7a946f-bf69-4b76-9163-6d2cf9ac8581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A link to your Invoice with all details included'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>4103202b-4bcb-40b3-ac91-f6c9d5d75221</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

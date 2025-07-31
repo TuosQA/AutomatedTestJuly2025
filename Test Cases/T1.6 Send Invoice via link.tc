@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T1.6 Send Invoice via link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1085320b-fb32-4e36-9e8a-882bbac3254b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T1.2.1_View Existing Invoice</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b8d6fd2-1029-43d4-b6d5-2b3465f04e34</testCaseGuid>
+</TestCaseEntity>
