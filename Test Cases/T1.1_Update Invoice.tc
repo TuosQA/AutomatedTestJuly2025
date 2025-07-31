@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T1.1_Update Invoice</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20c2dc78-d833-40cb-a969-e74e5e4c1d2c</testCaseGuid>
+</TestCaseEntity>
