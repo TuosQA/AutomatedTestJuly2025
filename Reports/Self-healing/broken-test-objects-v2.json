@@ -1,3 +1,584 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PostInv/Page_Tuos/div_Duplicate_headlessui-menu-item-r6r",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«r6r»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Duplicate\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PostInv/Page_Tuos/div_Duplicate_headlessui-menu-item-r6r_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInvoice/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "id(\"Username\")[count(. | //*[@class \u003d \u0027form-control\u0027 and @placeholder \u003d \u0027Username\u0027 and @type \u003d \u0027text\u0027 and @id \u003d \u0027Username\u0027 and @name \u003d \u0027Username\u0027]) \u003d count(//*[@class \u003d \u0027form-control\u0027 and @placeholder \u003d \u0027Username\u0027 and @type \u003d \u0027text\u0027 and @id \u003d \u0027Username\u0027 and @name \u003d \u0027Username\u0027])]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//input[@name\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInvoice/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInvoice/Page_Tuos/div_Open options_headlessui-menu-item-r6o",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«r6o»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Open options\u0027])[4]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInvoice/Page_Tuos/div_Open options_headlessui-menu-item-r6o_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInvoice/Page_Tuos/input_Due Date (mmddyyyy)_block w-full bord_bdc4f5",
+      "brokenLocator": "//input[@value\u003d\u002708/29/2025\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div/div/div[7]/div[2]/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInvoice/Page_Tuos/input_Due Date (mmddyyyy)_block w-full bord_bdc4f5_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInvoice/Page_Tuos/input_Tax Exempt_block w-full bg-white text_6e96f6",
+      "brokenLocator": "//input[@value\u003d\u00271\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div[2]/div/div/div[2]/div/div/div/table/tbody/tr[2]/td[3]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInvoice/Page_Tuos/input_Tax Exempt_block w-full bg-white text_6e96f6_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PostInv/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@name\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PostInv/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateRecInv/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "//input[@name\u003d\u0027Username\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@name\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateRecInv/Page_Login - Codx.Auth/input_Login_Username_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ViewInv/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ViewInv/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInvoice/Page_Tuos/select_Tax Exempt_mt-1 block w-full py-2 pl_54281d",
+      "brokenLocator": "internal:role\u003dtable \u003e\u003e internal:role\u003dcombobox \u003e\u003e nth\u003d3",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div[2]/div/div/div[2]/div/div/div/table/tbody/tr[2]/td/div/div/select",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInvoice/Page_Tuos/select_Tax Exempt_mt-1 block w-full py-2 pl_54281d_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInvver2/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInvver2/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInvver2/Page_Tuos/div_Open options_headlessui-menu-item-r7m",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«r7m»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Open options\u0027])[4]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInvver2/Page_Tuos/div_Open options_headlessui-menu-item-r7m_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInvver2/Page_Tuos/input_Due Date (mmddyyyy)_block w-full bord_bdc4f5",
+      "brokenLocator": "//input[@value\u003d\u002708/30/2025\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div/div/div[7]/div[2]/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInvver2/Page_Tuos/input_Due Date (mmddyyyy)_block w-full bord_bdc4f5_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInvver2/Page_Tuos/div_Tax Exempt_flex items-center gap-2",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div[2]/div/div/div[2]/div/div/div/table/tbody/tr[3]/td/div/button/span/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Tax Exempt\u0027])[3]/following::div[7]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInvver2/Page_Tuos/div_Tax Exempt_flex items-center gap-2_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInvver2/Page_Tuos/input_Tax Exempt_block w-full bg-white text_6e96f6",
+      "brokenLocator": "id(\"root\")/div[@class\u003d\"lg:block md:hidden hidden lg:h-full lg:w-full\"]/div[@class\u003d\"grid h-full gap-0 grid-cols-6\"]/div[@class\u003d\"h-full col-span-5\"]/div[@class\u003d\"mx-4\"]/div[@class\u003d\"mx-auto max-w-full\"]/div[@class\u003d\"p-4 space-y-4\"]/div[2]/div[@class\u003d\"p-4 bg-white rounded-b-xl rounded-tr-xl\"]/div[@class\u003d\"px-1\"]/div[@class\u003d\"mx-auto w-full\"]/div[@class\u003d\"overflow-visible bg-white sm:rounded-lg\"]/form[1]/div[@class\u003d\"lg:px-6 md:px-4 px-2.5 space-y-6 pb-4\"]/div[@class\u003d\"flex flex-col space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0 lg:justify-between\"]/div[@class\u003d\"flex flex-col w-full space-y-4\"]/div[@class\u003d\"py-4\"]/div[@class\u003d\"max-w-5x1 mx-auto\"]/div[@class\u003d\"overflow-x-auto -my-2 lg:-mx-8 md:-mx-0 -mx-0\"]/div[@class\u003d\"inline-block min-w-full py-2 align-middle md:px-6 lg:px-8 px-0\"]/div[@class\u003d\"overflow-hidden ring-1 ring-black ring-opacity-5\"]/div[@class\u003d\"bg-gray-50\"]/table[@class\u003d\"min-w-full divide-y divide-gray-300\"]/tbody[1]/tr[3]/td[@class\u003d\"whitespace-nowrap px-1 pt-1 pb-2 text-center text-gray-900 text-xs align-top font-normal\"]/div[@class\u003d\"w-full\"]/div[@class\u003d\"mt-1\"]/input[@class\u003d\"block w-full bg-white text-xs border-none focus:border-green-500 focus:ring-green-500 text-right\"][count(. | //input[@datatype \u003d \u0027number\u0027 and @type \u003d \u0027text\u0027 and @value \u003d \u00271\u0027]) \u003d count(//input[@datatype \u003d \u0027number\u0027 and @type \u003d \u0027text\u0027 and @value \u003d \u00271\u0027])]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "tr:nth-child(3) \u003e td:nth-child(3) \u003e div \u003e .mt-1 \u003e .block",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInvver2/Page_Tuos/input_Tax Exempt_block w-full bg-white text_6e96f6_SMART_LOCATOR.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/InvClear Filter Search/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/InvClear Filter Search/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Duplicate Invoice/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Duplicate Invoice/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateEstimate/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateEstimate/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateEstimate/Page_Tuos/div_Open options_headlessui-menu-item-r8k",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«r8k»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Open options\u0027])[5]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateEstimate/Page_Tuos/div_Open options_headlessui-menu-item-r8k_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateEstimate/Page_Tuos/input_Due Date (mmddyyyy)_block w-full bord_bdc4f5",
+      "brokenLocator": "//input[@value\u003d\u002708/30/2025\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div/div/div[7]/div[2]/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateEstimate/Page_Tuos/input_Due Date (mmddyyyy)_block w-full bord_bdc4f5_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateEstimate/Page_Tuos/div_Sa_react-datepicker__day react-datepick_46975d",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div/div/div[7]/div[2]/div/div/div[2]/div[2]/div/div/div/div/div[2]/div[6]/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Sa\u0027])[1]/following::div[45]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateEstimate/Page_Tuos/div_Sa_react-datepicker__day react-datepick_46975d_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Record Payment/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Record Payment/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Record Payment/Page_Tuos/div_Duplicate_headlessui-menu-item-r71",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«r71»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Duplicate\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Record Payment/Page_Tuos/div_Duplicate_headlessui-menu-item-r71_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Record Payment/Page_Tuos/span_Void_w-full text-start px-3",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«r7b»\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Void\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Record Payment/Page_Tuos/span_Void_w-full text-start px-3_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Record Payment/Page_Tuos/div_Sa_react-datepicker__day react-datepick_e73799",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-dialog-panel-«r7l»\u0027]/div[2]/div/form/div/div/div/div[2]/div[2]/div/div/div/div/div[2]/div[5]/div[5]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Sa\u0027])[1]/following::div[39]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Record Payment/Page_Tuos/div_Sa_react-datepicker__day react-datepick_e73799_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SendInv via link/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SendInv via link/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SendInv via link/Page_Tuos/div_Send Invoice_cols-span-1 p-8 shadow-md _6e5041",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-dialog-panel-«r75»\u0027]/div[2]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Send Invoice\u0027])[1]/following::div[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SendInv via link/Page_Tuos/div_Send Invoice_cols-span-1 p-8 shadow-md _6e5041_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SendInv via Email/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SendInv via Email/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SendInv via Email/Page_Tuos/div_Duplicate_headlessui-menu-item-r85",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«r85»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Duplicate\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SendInv via Email/Page_Tuos/div_Duplicate_headlessui-menu-item-r85_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ExportInv to PDF/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ExportInv to PDF/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ExportInv to PDF/Page_Tuos/div_Void_headlessui-menu-item-r73",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«r73»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Void\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ExportInv to PDF/Page_Tuos/div_Void_headlessui-menu-item-r73_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Delete Invoice/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Delete Invoice/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Delete Invoice/Page_Tuos/button_Cancel_ml-3 inline-flex justify-cent_f37da6",
+      "brokenLocator": "(//button[@type\u003d\u0027button\u0027])[14]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Delete Invoice/Page_Tuos/button_Cancel_ml-3 inline-flex justify-cent_f37da6_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInv/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInv/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UpdateInv/Page_Tuos/div_Open options_headlessui-menu-item-r5q",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«r5q»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Open options\u0027])[5]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UpdateInv/Page_Tuos/div_Open options_headlessui-menu-item-r5q_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateInvver2/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateInvver2/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Convert to Inv(Estimate)/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Convert to Inv(Estimate)/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Convert to Inv(Estimate)/Page_Tuos/div_Send_headlessui-menu-item-rc4",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«rc4»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027headlessui-menu-items-«r7v»\u0027]/div[6]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Convert to Inv(Estimate)/Page_Tuos/div_Send_headlessui-menu-item-rc4_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Delete Estimate/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Delete Estimate/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Delete Estimate/Page_Tuos/svg",
+      "brokenLocator": "[id\u003d\"headlessui-menu-button-«rba»\"]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Open options\u0027])[4]/following::*[name()\u003d\u0027svg\u0027][1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Delete Estimate/Page_Tuos/svg_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Delete Estimate/Page_Tuos/div_Export to PDF_headlessui-menu-item-rg5",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«rg5»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Export to PDF\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Delete Estimate/Page_Tuos/div_Export to PDF_headlessui-menu-item-rg5_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Delete Estimate/Page_Tuos/button_Cancel_ml-3 inline-flex justify-cent_f37da6",
+      "brokenLocator": "(//button[@type\u003d\u0027button\u0027])[18]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Delete Estimate/Page_Tuos/button_Cancel_ml-3 inline-flex justify-cent_f37da6_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ViewEstimate/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ViewEstimate/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ViewEstimate/Page_Tuos/div_Open options_headlessui-menu-item-rbe",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«rbe»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Open options\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ViewEstimate/Page_Tuos/div_Open options_headlessui-menu-item-rbe_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ClearfilterEstimate/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ClearfilterEstimate/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/DuplicateEstimate/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/DuplicateEstimate/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/DuplicateEstimate/Page_Tuos/div_View_headlessui-menu-item-r9k",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«r9k»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027headlessui-menu-items-«r6f»\u0027]/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/DuplicateEstimate/Page_Tuos/div_View_headlessui-menu-item-r9k_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PrintEstimate/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PrintEstimate/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ApproveEstimate/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ApproveEstimate/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ApproveEstimate/Page_Tuos/div_Send_headlessui-menu-item-raf",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«raf»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Send\u0027])[3]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ApproveEstimate/Page_Tuos/div_Send_headlessui-menu-item-raf_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SendEst Via Link/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SendEst Via Link/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SendEst Via Link/Page_Tuos/div_Print_headlessui-menu-item-rdd",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«rdd»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Print\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SendEst Via Link/Page_Tuos/div_Print_headlessui-menu-item-rdd_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SendEst Via Link/Page_Tuos/div_Send Estimate_text-md font-medium text-center",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-dialog-panel-«rdo»\u0027]/div[2]/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Send Estimate\u0027])[1]/following::div[6]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SendEst Via Link/Page_Tuos/div_Send Estimate_text-md font-medium text-center_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SendEst Via Link/Page_Tuos/div_Send Estimate_text-md font-medium text-center_1",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-dialog-panel-«rpq»\u0027]/div[2]/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Send Estimate\u0027])[1]/following::div[6]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SendEst Via Link/Page_Tuos/div_Send Estimate_text-md font-medium text-center_1_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SendEst Via Link/Page_Tuos/div_Send Estimate_cols-span-1 p-8 shadow-md_d36b12",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-dialog-panel-«rpq»\u0027]/div[2]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Send Estimate\u0027])[1]/following::div[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SendEst Via Link/Page_Tuos/div_Send Estimate_cols-span-1 p-8 shadow-md_d36b12_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Export Estimate to Pdf/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Export Estimate to Pdf/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Export Estimate to Pdf/Page_Tuos/svg",
+      "brokenLocator": "[id\u003d\"headlessui-menu-button-«r7u»\"]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Open options\u0027])[7]/following::*[name()\u003d\u0027svg\u0027][1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Export Estimate to Pdf/Page_Tuos/div_Approve_headlessui-menu-item-rag",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-menu-item-«rag»\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Approve\u0027])[3]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Export Estimate to Pdf/Page_Tuos/div_Approve_headlessui-menu-item-rag_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CreateEstimate/Page_Login - Codx.Auth/input_Login_Username",
+      "brokenLocator": "internal:attr\u003d[placeholder\u003d\"Username\"i]",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//input[@id\u003d\u0027Username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CreateEstimate/Page_Login - Codx.Auth/input_Login_Username_XPATH.png"
+    }
+  ]
 }

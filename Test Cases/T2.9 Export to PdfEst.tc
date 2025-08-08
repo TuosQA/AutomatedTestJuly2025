@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T2.9 Export to PdfEst</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2190f31-d8d4-479a-af7d-1044396d4b5b</testCaseGuid>
+</TestCaseEntity>

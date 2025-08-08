@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SubTotal_bg-primary-500 text-white r_431453</name>
+   <tag></tag>
+   <elementGuidId>b2edd5a9-6bd1-4515-bae0-778bcb83b172</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Item&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>068b1118-d02e-434c-ab12-2c75f92bbb91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6edd310d-f708-4878-909a-7b8c0e11100d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> bg-primary-500 text-white rounded-md lg:px-2 md:px-2 px-4 hover:bg-primary-700 py-1.5 lg:text-sm md:text-sm text-xs</value>
+      <webElementGuid>3dfb3414-4db3-4645-aa3a-0cb2a6043046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Item</value>
+      <webElementGuid>61feb9dc-100e-412c-9998-cf98efc6e0fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;lg:block md:hidden hidden lg:h-full lg:w-full&quot;]/div[@class=&quot;grid h-full gap-0 grid-cols-6&quot;]/div[@class=&quot;h-full col-span-5&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;mx-auto max-w-full&quot;]/div[@class=&quot;p-4 space-y-4&quot;]/div[2]/div[@class=&quot;p-4 bg-white rounded-b-xl rounded-tr-xl&quot;]/div[@class=&quot;px-1&quot;]/div[@class=&quot;mx-auto w-full&quot;]/div[@class=&quot;overflow-visible bg-white sm:rounded-lg&quot;]/form[1]/div[@class=&quot;lg:px-6 md:px-4 px-2.5 space-y-6 pb-4&quot;]/div[@class=&quot;flex flex-col space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0 lg:justify-between&quot;]/div[@class=&quot;flex flex-col w-full space-y-4&quot;]/div[@class=&quot;py-4&quot;]/div[@class=&quot;max-w-5x1 mx-auto&quot;]/div[@class=&quot;overflow-x-auto -my-2 lg:-mx-8 md:-mx-0 -mx-0&quot;]/div[@class=&quot;inline-block min-w-full py-2 align-middle md:px-6 lg:px-8 px-0&quot;]/div[@class=&quot;overflow-hidden ring-1 ring-black ring-opacity-5&quot;]/div[@class=&quot;min-w-full bg-gray-50&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-300&quot;]/tbody[1]/tr[2]/td[@class=&quot;whitespace-nowrap text-left px-1 pt-1 pb-2 text-xs font-normal align-top text-gray-900&quot;]/div[@class=&quot;flex items-center px-2&quot;]/button[@class=&quot;bg-primary-500 text-white rounded-md lg:px-2 md:px-2 px-4 hover:bg-primary-700 py-1.5 lg:text-sm md:text-sm text-xs&quot;]</value>
+      <webElementGuid>a632b312-cd78-4dab-9950-071119bd35f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>9caaec8d-6663-446b-a115-a271515b14a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div[2]/div/div/div[2]/div/div/div/table/tbody/tr[2]/td/div/button</value>
+      <webElementGuid>45aabf2e-23a0-4180-a726-91e2109c8509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SubTotal'])[1]/following::button[3]</value>
+      <webElementGuid>15e3891b-c73a-4a7a-a59b-08fc358f681e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax'])[1]/following::button[3]</value>
+      <webElementGuid>860e4676-1c1d-4d29-b65d-c6c3651b000a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal:'])[1]/preceding::button[1]</value>
+      <webElementGuid>1a6a4916-dbff-48c1-81a4-fead590f4400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/button</value>
+      <webElementGuid>a4437059-a6bf-4120-946d-6bb9cc84526d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add Item' or . = 'Add Item')]</value>
+      <webElementGuid>41a07229-cf15-48a2-b313-dcb8e8d443eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

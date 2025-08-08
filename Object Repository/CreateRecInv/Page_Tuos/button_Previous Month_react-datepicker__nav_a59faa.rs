@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Previous Month_react-datepicker__nav_a59faa</name>
+   <tag></tag>
+   <elementGuidId>e894b7cb-e155-48bc-9547-06236c431c44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.react-datepicker__navigation.react-datepicker__navigation--next</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Next Month&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fc7ff6bf-973c-45d6-b16e-b98237898a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>41e72c5e-c78e-411d-9f0c-1953f5183926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-datepicker__navigation react-datepicker__navigation--next</value>
+      <webElementGuid>3e48c017-f1f5-445e-9e22-189e21dd26eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Next Month</value>
+      <webElementGuid>b92aa8cd-809a-4629-803f-e09f813a7e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next Month</value>
+      <webElementGuid>4dc6b18e-1fc0-4fa0-b31a-47dd815219b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;lg:block md:hidden hidden lg:h-full lg:w-full&quot;]/div[@class=&quot;grid h-full gap-0 grid-cols-6&quot;]/div[@class=&quot;h-full col-span-5&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;mx-auto max-w-full&quot;]/div[@class=&quot;p-4 space-y-4&quot;]/div[2]/div[@class=&quot;p-4 bg-white rounded-b-xl rounded-tr-xl&quot;]/div[@class=&quot;px-1&quot;]/div[@class=&quot;mx-auto w-full&quot;]/div[@class=&quot;overflow-visible bg-white sm:rounded-lg&quot;]/form[1]/div[@class=&quot;lg:px-6 md:px-4 px-2.5 space-y-6 pb-4&quot;]/div[@class=&quot;flex flex-col space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0 lg:justify-between&quot;]/div[@class=&quot;lg:w-[73%] w-full md:w-full&quot;]/div[@class=&quot;flex flex-col w-full space-y-4&quot;]/div[@class=&quot;flex flex-col space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0 lg:justify-between&quot;]/div[@class=&quot;flex flex-col w-full space-y-4&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;mt-1 formik-date-input&quot;]/div[@class=&quot;react-datepicker__tab-loop&quot;]/div[@class=&quot;react-datepicker-popper&quot;]/div[1]/div[1]/div[@class=&quot;react-datepicker&quot;]/button[@class=&quot;react-datepicker__navigation react-datepicker__navigation--next&quot;]</value>
+      <webElementGuid>c2f227a4-ac22-4a63-9d87-8618fd9b9f3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>e39e4f8c-1f64-4bdd-ae2b-9e496662ce62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div/div/div[9]/div/div/div/div[2]/div[2]/div/div/div/button[2]</value>
+      <webElementGuid>b201c421-2b7a-4e3b-8d24-887a800979bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous Month'])[1]/following::button[1]</value>
+      <webElementGuid>c2825454-af2b-4446-8b98-c789d8e0d9e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create first invoice on'])[1]/following::button[2]</value>
+      <webElementGuid>9c182b33-9f74-4bd4-bcd2-41c561f4c4ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July 2025'])[1]/preceding::button[1]</value>
+      <webElementGuid>73bd0f45-8c95-45aa-8a21-63aa3557796c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button[2]</value>
+      <webElementGuid>1b5a7bb8-3689-4176-bc13-bf3c6eccbf54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Next Month' or . = 'Next Month')]</value>
+      <webElementGuid>d992392e-edcc-434f-bc27-04a62763cc64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

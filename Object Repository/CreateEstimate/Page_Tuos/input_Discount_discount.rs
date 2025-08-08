@@ -6,22 +6,22 @@
    <elementGuidId>9a50766c-25ec-42c1-aefd-27b769aa43af</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='discount']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;discount&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='discount']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=cell[name=&quot;Subtotal: $100.00 Discount GST (14%) $14.00 Total Tax: $14.00 Discount (0%): $0.00 Total: $114.00&quot;i] >> internal:role=textbox</value>
+         <value>internal:role=cell[name=&quot;Subtotal: $300.00 Discount Total Tax: $0.00 Discount (0%): $0.00 Total: $300.00&quot;i] >> internal:role=textbox</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>85aaa3aa-e1bb-43dc-9f37-95390ab8032e</webElementGuid>
+      <webElementGuid>2a2dd966-02df-4f0e-9212-311dbae02db5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>datatype</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>40f98d26-966c-41cb-87f3-3645d5f2926a</webElementGuid>
+      <webElementGuid>f5bf2959-7751-40bb-9586-d0fd8126d1bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block w-full shadow-sm bg-white lg:text-sm md:text-xs text-xs border-primary-300 focus:border-primary-500 focus:ring-primary-500 text-right</value>
-      <webElementGuid>6baf9706-7d07-4506-a9ac-b09fbbbfafb5</webElementGuid>
+      <webElementGuid>bba45e7a-0497-4767-beed-d328e2dad812</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0ff0d5c2-c9d4-4679-9060-6947e78e4458</webElementGuid>
+      <webElementGuid>c94dc924-b9d3-418f-a13c-c39a92e99843</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>6ffeae79-ab37-462c-98e5-5c352d391eb9</webElementGuid>
+      <webElementGuid>738d4bbe-929b-4e77-9322-e19870ea8ec0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>name</name>
       <type>Main</type>
       <value>discount</value>
-      <webElementGuid>cfb0dbc3-cc59-407e-98b8-703b7012ff33</webElementGuid>
+      <webElementGuid>61dfd6f1-e5aa-418c-9296-17502b440e55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;lg:block md:hidden hidden lg:h-full lg:w-full&quot;]/div[@class=&quot;grid h-full gap-0 grid-cols-6&quot;]/div[@class=&quot;h-full col-span-5&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;mx-auto max-w-full&quot;]/div[@class=&quot;p-4 space-y-4&quot;]/div[2]/div[@class=&quot;p-4 bg-white rounded-b-xl rounded-tr-xl&quot;]/div[@class=&quot;px-1&quot;]/div[@class=&quot;mx-auto w-full&quot;]/div[@class=&quot;overflow-visible bg-white sm:rounded-lg&quot;]/form[1]/div[@class=&quot;lg:px-6 md:px-4 px-2.5 space-y-6 pb-4&quot;]/div[@class=&quot;flex flex-col space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0 lg:justify-between&quot;]/div[@class=&quot;flex flex-col w-full space-y-4&quot;]/div[@class=&quot;py-4&quot;]/div[@class=&quot;max-w-5x1 mx-auto&quot;]/div[@class=&quot;overflow-x-auto -my-2 lg:-mx-8 md:-mx-0 -mx-0&quot;]/div[@class=&quot;inline-block min-w-full py-2 align-middle md:px-6 lg:px-8 px-0&quot;]/div[@class=&quot;overflow-hidden ring-1 ring-black ring-opacity-5&quot;]/div[@class=&quot;bg-gray-50&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-300&quot;]/tbody[1]/tr[3]/td[1]/div[@class=&quot;p-4&quot;]/div[@class=&quot;flex lg:text-sm md:text-xs text-xs justify-end&quot;]/div[@class=&quot;w-44&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;mt-1&quot;]/input[@class=&quot;block w-full shadow-sm bg-white lg:text-sm md:text-xs text-xs border-primary-300 focus:border-primary-500 focus:ring-primary-500 text-right&quot;]</value>
-      <webElementGuid>bf5a7e78-0aab-456a-998e-d0147d4a9b13</webElementGuid>
+      <webElementGuid>5d8c234b-2c33-447c-976d-44c888634c1c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='discount']</value>
-      <webElementGuid>083f69f7-6eb9-4dd9-9fab-6a5acdd497ac</webElementGuid>
+      <webElementGuid>0ef5fb10-bbbb-447d-af96-d1f6c22aaf80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div[2]/div/div/div[2]/div/div/div/table/tbody/tr[3]/td/div/div[3]/div[2]/div/div/input</value>
-      <webElementGuid>b0f112d0-19ec-409d-b4a1-7d208d60f49c</webElementGuid>
+      <webElementGuid>79be5c09-ded8-4555-a268-9d6aede460b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/input</value>
-      <webElementGuid>8ef6f810-a452-451c-8ca7-87ddfac2f774</webElementGuid>
+      <webElementGuid>dbfc48e1-86a6-458d-b21c-8d4b5c39fd94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'discount']</value>
-      <webElementGuid>105cc9b4-3f07-464f-a8cf-7137555ffb39</webElementGuid>
+      <webElementGuid>1e016aef-a4eb-4a6e-ada4-ef4b10623a3c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

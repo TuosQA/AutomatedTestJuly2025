@@ -6,12 +6,12 @@
    <elementGuidId>46e4e644-1c0b-44cd-8127-bb508dd0c505</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div[3]/div/div/div/div/h1</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div/div/div/div/h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>00b66e58-0b2e-4697-b0f5-848401620c3b</webElementGuid>
+      <webElementGuid>7e0a29e7-a9b7-4b3a-b829-898ddc47f029</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-center</value>
-      <webElementGuid>8e3d515a-db92-4fec-bc9a-60e6a43dd630</webElementGuid>
+      <webElementGuid>259cba07-d99d-4331-bffa-524f3b497dc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Revenue and Collections</value>
-      <webElementGuid>b0a3e517-70ea-4575-b143-bb0f31b1c378</webElementGuid>
+      <webElementGuid>7f9bfcb2-4cf8-417d-882d-e5f98385e551</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;lg:block md:hidden hidden lg:h-full lg:w-full&quot;]/div[@class=&quot;grid h-full gap-0 grid-cols-6&quot;]/div[@class=&quot;col-span-1 h-full border-green-500 bg-white  space-y-2  w-full&quot;]/div[@class=&quot;flex-1 px-1.5 mb-[29px]&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;hover:shadow-md text-[#2B461B] fill-[#27401A] pr-4 pl-8 py-0.5 hover:bg-green-50 w-full font-md text-[14px] space-y-3 rounded-xl&quot;]/div[@class=&quot;flex justify-between items-center space-x-4&quot;]/div[@class=&quot;flex space-x-4 items-center h-[48px]&quot;]/h1[@class=&quot;flex items-center&quot;]</value>
-      <webElementGuid>a06a770b-df22-467a-a8f1-c174e70aea02</webElementGuid>
+      <webElementGuid>e68e2ecb-f513-4f90-84f7-31a8fed70190</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[3]/div/div/div/div/h1</value>
-      <webElementGuid>e522fa46-d231-47d3-b6b0-9f82895ae701</webElementGuid>
+      <webElementGuid>f8011620-9b09-4dd6-b0dd-60017d914783</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::h1[1]</value>
-      <webElementGuid>3f294215-31d0-43df-a956-6a3961fdb27c</webElementGuid>
+      <webElementGuid>1e2ba90d-8f51-45f5-a7f4-abc0e553bdfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inventory'])[1]/preceding::h1[1]</value>
-      <webElementGuid>5fb17029-a0aa-4367-a498-84cedb97ab6a</webElementGuid>
+      <webElementGuid>b963eb73-c9c1-4b5b-b6a6-345f24c0472d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase and Payments'])[1]/preceding::h1[2]</value>
-      <webElementGuid>0981b373-39aa-4c47-bc3f-ebb5ebedbe1e</webElementGuid>
+      <webElementGuid>fafddedc-a6da-4e2d-b346-c11e084ede70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Revenue and Collections']/parent::*</value>
-      <webElementGuid>6cad1819-af24-4d89-9625-71891838aab9</webElementGuid>
+      <webElementGuid>69685ce4-a8de-4ee9-b7ff-99d221bd36b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/h1</value>
-      <webElementGuid>e18e9b7c-2491-409f-b84b-4c782a86377e</webElementGuid>
+      <webElementGuid>b7fd6702-cf47-407f-afdc-205bf73d838e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Revenue and Collections' or . = 'Revenue and Collections')]</value>
-      <webElementGuid>a09c8695-d174-422b-9a13-6d06680390e8</webElementGuid>
+      <webElementGuid>c7876d04-bc80-4ca1-aa6b-75e38c66b230</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

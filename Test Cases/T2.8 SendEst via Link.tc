@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T2.8 SendEst via Link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac97fca3-15d9-4432-ba5e-2fbe2b53d089</testCaseGuid>
+</TestCaseEntity>

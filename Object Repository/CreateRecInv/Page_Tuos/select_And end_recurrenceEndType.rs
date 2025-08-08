@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_And end_recurrenceEndType</name>
+   <tag></tag>
+   <elementGuidId>9c0a2769-6a80-4b60-8837-cda1e80ee2c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;recurrenceEndType&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='recurrenceEndType']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form >> internal:has-text=&quot;CustomerSteveSharpieBarbieTax ExemptContact NameBar BieEmailPhoneBilling Address&quot;i >> select[name=&quot;recurrenceEndType&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3216733e-2134-4dc6-8798-d4c272e1cca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>recurrenceEndType</value>
+      <webElementGuid>7729a984-7b0f-4ea0-accd-5d7ccb74cec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-1 block w-full py-2 pl-3 pr-10 lg:text-sm md:text-xs text-xs focus:outline-none border-primary-300 focus:border-primary-500 focus:ring-primary-500 bg-green-50</value>
+      <webElementGuid>dbd8ea37-516f-4387-bb58-5eb325af8f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AfterOnNever</value>
+      <webElementGuid>fafc18fd-56f7-493f-b6db-4cd4513de582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;lg:block md:hidden hidden lg:h-full lg:w-full&quot;]/div[@class=&quot;grid h-full gap-0 grid-cols-6&quot;]/div[@class=&quot;h-full col-span-5&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;mx-auto max-w-full&quot;]/div[@class=&quot;p-4 space-y-4&quot;]/div[2]/div[@class=&quot;p-4 bg-white rounded-b-xl rounded-tr-xl&quot;]/div[@class=&quot;px-1&quot;]/div[@class=&quot;mx-auto w-full&quot;]/div[@class=&quot;overflow-visible bg-white sm:rounded-lg&quot;]/form[1]/div[@class=&quot;lg:px-6 md:px-4 px-2.5 space-y-6 pb-4&quot;]/div[@class=&quot;flex flex-col space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0 lg:justify-between&quot;]/div[@class=&quot;lg:w-[73%] w-full md:w-full&quot;]/div[@class=&quot;flex flex-col w-full space-y-4&quot;]/div[@class=&quot;flex flex-col space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0 lg:justify-between&quot;]/div[@class=&quot;flex flex-col w-full space-y-4&quot;]/div[1]/select[@class=&quot;mt-1 block w-full py-2 pl-3 pr-10 lg:text-sm md:text-xs text-xs focus:outline-none border-primary-300 focus:border-primary-500 focus:ring-primary-500 bg-green-50&quot;]</value>
+      <webElementGuid>76151121-6ad3-41e0-9100-d0fd40dd44da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='recurrenceEndType']</value>
+      <webElementGuid>80bbd34a-8a1e-48ba-bfe7-a884f6d17d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div/div/div[9]/div[2]/div/select</value>
+      <webElementGuid>ab3e2a05-33c6-4fea-93de-597ad0d62ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='And end'])[1]/following::select[1]</value>
+      <webElementGuid>19b79c97-267f-4786-935d-976873a4ed8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create first invoice on'])[1]/following::select[1]</value>
+      <webElementGuid>74f82cd8-ea06-4914-ba25-addf5531b685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='invoices'])[1]/preceding::select[1]</value>
+      <webElementGuid>45ac85f4-be8d-4f26-85bd-eabf8e48eba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timezone'])[1]/preceding::select[1]</value>
+      <webElementGuid>41607f7e-20e2-4e0c-90e9-d74b422aa732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div/select</value>
+      <webElementGuid>1616c37b-36ed-4887-a75c-ccd4c46b95fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'recurrenceEndType' and (text() = 'AfterOnNever' or . = 'AfterOnNever')]</value>
+      <webElementGuid>8d31899d-2cc1-4864-96d8-502ccc151b07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

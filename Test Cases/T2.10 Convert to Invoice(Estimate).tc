@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T2.10 Convert to Invoice(Estimate)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6e6232b-5b47-4e74-add0-88bfc7e9c936</testCaseGuid>
+</TestCaseEntity>

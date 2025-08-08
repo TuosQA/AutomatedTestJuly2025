@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://tuos-qatest.simpacc.ca/')
+WebUI.navigateToUrl('https://tuos-qatest.simpacc.ca/#/revenue-and-collections/invoices')
 
 WebUI.setText(findTestObject('Object Repository/CreateEstimate/Page_Login - Codx.Auth/input_Login_Username'), 'graceyguinto@gmail.com')
 
@@ -33,11 +33,12 @@ WebUI.click(findTestObject('Object Repository/CreateEstimate/Page_Tuos/a_Revenue
 
 WebUI.click(findTestObject('Object Repository/CreateEstimate/Page_Tuos/button_Estimates and Quotes_bg-primary-500 _4ad324'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/CreateEstimate/Page_Tuos/select_Customer_customerID'), '4', 
+WebUI.selectOptionByValue(findTestObject('Object Repository/CreateEstimate/Page_Tuos/select_Customer_customerID'), '29', 
     true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/CreateEstimate/Page_Tuos/select_Customer_customerID'), '3', 
-    true)
+WebUI.click(findTestObject('Object Repository/CreateEstimate/Page_Tuos/input_Due Date (mmddyyyy)_block w-full bord_bdc4f5'))
+
+WebUI.click(findTestObject('Object Repository/CreateEstimate/Page_Tuos/div_Sa_react-datepicker__day react-datepick_947a07'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/CreateEstimate/Page_Tuos/select_SubTotal_mt-1 block w-full py-2 pl-3_012011'), 
     '3', true)
@@ -48,20 +49,15 @@ WebUI.setText(findTestObject('Object Repository/CreateEstimate/Page_Tuos/input_S
     '')
 
 WebUI.setText(findTestObject('Object Repository/CreateEstimate/Page_Tuos/input_SubTotal_block w-full bg-white text-x_ec7ca8_2'), 
-    '2')
+    '6')
 
 WebUI.setText(findTestObject('Object Repository/CreateEstimate/Page_Tuos/input_SubTotal_block w-full bg-white text-x_ec7ca8_3'), 
-    '20')
+    '60')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/CreateEstimate/Page_Tuos/select_SubTotal_mt-1 block w-full py-2 pl-3_012011_1'), 
-    '3', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/CreateEstimate/Page_Tuos/select_100.00_discountType'), '2', 
+WebUI.selectOptionByValue(findTestObject('Object Repository/CreateEstimate/Page_Tuos/select_300.00_discountType'), '2', 
     true)
 
-WebUI.setText(findTestObject('Object Repository/CreateEstimate/Page_Tuos/input_Discount_discount'), '15')
+WebUI.setText(findTestObject('Object Repository/CreateEstimate/Page_Tuos/input_Discount_discount'), '5')
 
 WebUI.click(findTestObject('Object Repository/CreateEstimate/Page_Tuos/button_Cancel_ml-3 inline-flex justify-cent_ee1268'))
-
-WebUI.closeBrowser()
 

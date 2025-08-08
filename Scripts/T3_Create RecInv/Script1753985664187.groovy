@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://tuos-qatest.simpacc.ca/')
+WebUI.navigateToUrl('https://tuos-qatest.simpacc.ca/#/revenue-and-collections/invoices')
 
 WebUI.setText(findTestObject('Object Repository/CreateRecInv/Page_Login - Codx.Auth/input_Login_Username'), 'graceyguinto@gmail.com')
 
@@ -33,15 +33,18 @@ WebUI.click(findTestObject('Object Repository/CreateRecInv/Page_Tuos/a_Estimates
 
 WebUI.click(findTestObject('Object Repository/CreateRecInv/Page_Tuos/button_Recurring Invoice_bg-primary-500 ite_01c704'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/CreateRecInv/Page_Tuos/select_Customer_customerID'), '3', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/CreateRecInv/Page_Tuos/select_Customer_customerID'), '29', true)
 
-WebUI.click(findTestObject('Object Repository/CreateRecInv/Page_Tuos/input_Create first invoice on_block w-full _af49f7'))
-
-WebUI.click(findTestObject('Object Repository/CreateRecInv/Page_Tuos/button_Previous Month_react-datepicker__nav_a59faa'))
-
-WebUI.click(findTestObject('Object Repository/CreateRecInv/Page_Tuos/div_Sa_react-datepicker__day react-datepick_1b9685'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/CreateRecInv/Page_Tuos/select_Payment Due_paymentDueDate'), 
+    '2', true)
 
 WebUI.setText(findTestObject('Object Repository/CreateRecInv/Page_Tuos/input_invoices_recurrenceEndAfter'), '3')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/CreateRecInv/Page_Tuos/select_And end_recurrenceEndType'), '2', 
+    true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/CreateRecInv/Page_Tuos/select_And end_recurrenceEndType'), '1', 
+    true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/CreateRecInv/Page_Tuos/select_SubTotal_mt-1 block w-full py-2 pl-3_012011'), 
     '3', true)
@@ -59,6 +62,14 @@ WebUI.setText(findTestObject('Object Repository/CreateRecInv/Page_Tuos/input_Sub
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/CreateRecInv/Page_Tuos/select_SubTotal_mt-1 block w-full py-2 pl-3_012011_1'), 
     '3', true)
+
+WebUI.click(findTestObject('Object Repository/CreateRecInv/Page_Tuos/button_Cancel_ml-3 inline-flex justify-cent_ee1268'))
+
+WebUI.click(findTestObject('Object Repository/CreateRecInv/Page_Tuos/input_Create first invoice on_block w-full _af49f7'))
+
+WebUI.click(findTestObject('Object Repository/CreateRecInv/Page_Tuos/div_Sa_react-datepicker__day react-datepick_2a9e19'))
+
+WebUI.click(findTestObject('Object Repository/CreateRecInv/Page_Tuos/input_Create first invoice on_block w-full _4fcf25'))
 
 WebUI.click(findTestObject('Object Repository/CreateRecInv/Page_Tuos/button_Cancel_ml-3 inline-flex justify-cent_ee1268'))
 

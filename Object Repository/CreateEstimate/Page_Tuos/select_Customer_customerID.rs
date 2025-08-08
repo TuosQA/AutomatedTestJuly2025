@@ -6,12 +6,12 @@
    <elementGuidId>21a63be0-a2e8-4292-81f6-f53b1d7017a7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@name='customerID']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>select[name=&quot;customerID&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='customerID']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>2d89ac9d-1bdc-4f1a-9841-efe7308008e3</webElementGuid>
+      <webElementGuid>6f677d62-a445-4ba3-b101-53e0a81db5a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>customerID</value>
-      <webElementGuid>e1b7e968-3e93-45d0-9591-b171917c615e</webElementGuid>
+      <webElementGuid>decec730-b2d0-4790-a4df-581c56784019</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>class</name>
       <type>Main</type>
       <value>mt-1 block w-full py-2 pl-3 pr-10 lg:text-sm md:text-sm focus:outline-none text-xs border-red-300 focus:border-red-500 focus:ring-red-500 bg-red-100</value>
-      <webElementGuid>be7a1464-1970-4fa6-94c1-ca1b6ade0873</webElementGuid>
+      <webElementGuid>97ba6f1f-9fea-4943-88ef-628416fc3bc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>SteveSharpie</value>
-      <webElementGuid>ac4c7e52-743c-46db-ab83-14c632858312</webElementGuid>
+      <value>SteveSharpieBarbie</value>
+      <webElementGuid>feb2baac-6fc8-43f8-8bca-f02ca7b46f9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;lg:block md:hidden hidden lg:h-full lg:w-full&quot;]/div[@class=&quot;grid h-full gap-0 grid-cols-6&quot;]/div[@class=&quot;h-full col-span-5&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;mx-auto max-w-full&quot;]/div[@class=&quot;p-4 space-y-4&quot;]/div[2]/div[@class=&quot;p-4 bg-white rounded-b-xl rounded-tr-xl&quot;]/div[@class=&quot;px-1&quot;]/div[@class=&quot;mx-auto w-full&quot;]/div[@class=&quot;overflow-visible bg-white sm:rounded-lg&quot;]/form[1]/div[@class=&quot;lg:px-6 md:px-4 px-2.5 space-y-6 pb-4&quot;]/div[@class=&quot;flex flex-col space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0 lg:justify-between&quot;]/div[@class=&quot;lg:w-[73%] w-full md:w-full&quot;]/div[@class=&quot;flex flex-col w-full space-y-4&quot;]/div[1]/div[@class=&quot;flex rounded-md shadow-sm&quot;]/div[@class=&quot;relative flex flex-grow items-stretch focus-within:z-10&quot;]/select[@class=&quot;mt-1 block w-full py-2 pl-3 pr-10 lg:text-sm md:text-sm focus:outline-none text-xs border-red-300 focus:border-red-500 focus:ring-red-500 bg-red-100&quot;]</value>
-      <webElementGuid>d85c6c59-964f-49f2-a6df-0033cd0b53b2</webElementGuid>
+      <webElementGuid>201bcdef-84dd-4783-bbe9-b18daf4b8a15</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='customerID']</value>
-      <webElementGuid>b8a28992-b944-4fe6-a0e9-ef1a66bd1fbe</webElementGuid>
+      <webElementGuid>2b96ca76-928f-4bc9-8013-570d4d75840e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/form/div/div/div/div/div/div/div/select</value>
-      <webElementGuid>77ed9766-9b0c-4825-9ea4-d71470373875</webElementGuid>
+      <webElementGuid>c3280c1a-bb84-4353-b166-6019eb329e6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer'])[1]/following::select[1]</value>
-      <webElementGuid>b83660a1-f9ba-4b0d-a9b8-24b2b477d271</webElementGuid>
+      <webElementGuid>2cf2ab69-7a79-4dd6-b5bf-7c76e16fa41a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimates and Quotes'])[3]/following::select[1]</value>
-      <webElementGuid>18d43c0e-053d-4956-92b8-28130967a88c</webElementGuid>
+      <webElementGuid>c105993f-da2d-493b-b11a-957e533a7a1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer field is Required'])[1]/preceding::select[1]</value>
-      <webElementGuid>aa0772c7-9bb9-4107-9dc7-3320bf5f84e0</webElementGuid>
+      <webElementGuid>bfcda686-ae04-44da-a5af-8162ab3dc0ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Ref'])[1]/preceding::select[1]</value>
-      <webElementGuid>b3662a95-454d-4f4e-a599-723e41e92eb6</webElementGuid>
+      <webElementGuid>1b38b9b6-cfd3-438d-8d95-07897ad588a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,14 +117,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>51d7ba0e-2c38-44a9-9c83-7b50e1ccbbf9</webElementGuid>
+      <webElementGuid>6b3b594a-fc0e-469b-8336-31d922438989</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@name = 'customerID' and (text() = 'SteveSharpie' or . = 'SteveSharpie')]</value>
-      <webElementGuid>b8b3ddf8-daae-457a-a8b2-e67c77b6d5b4</webElementGuid>
+      <value>//select[@name = 'customerID' and (text() = 'SteveSharpieBarbie' or . = 'SteveSharpieBarbie')]</value>
+      <webElementGuid>03f19828-1fdf-4fa6-875e-38fce85ab17f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

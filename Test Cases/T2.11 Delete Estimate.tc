@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T2.11 Delete Estimate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08ad626d-d3ed-4574-b4bc-c43dc0c790ac</testCaseGuid>
+</TestCaseEntity>
